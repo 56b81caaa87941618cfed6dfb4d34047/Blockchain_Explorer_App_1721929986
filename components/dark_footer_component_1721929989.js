@@ -19,9 +19,9 @@ Vue.component("dark_footer_component_1721929989", {
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="FOOTER_COMPONENT_1_FOOTER_TEXT_1"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="Discover the Latest Blockchain News"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
                         </div>
-                        <div id="footer-copyright" class="text-sm" :class="textColorSecondary">&copy; FOOTER_COMPONENT_1_FOOTER_TEXT_1 <span :class="textColorTertiary">-</span> All rights reserved.</div>
+                        <div id="footer-copyright" class="text-sm" :class="textColorSecondary">&copy; Discover the Latest Blockchain News <span :class="textColorTertiary">-</span> All rights reserved.</div>
                     </div>
                     <!-- Social links -->
                     <ul id="footer-social-links" class="flex">
@@ -34,34 +34,34 @@ Vue.component("dark_footer_component_1721929989", {
  
             <!-- 2nd block -->
             <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_1_TITLE_TEXT</h6>
+                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Stay Updated</h6>
                 <ul id="footer-block-2-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Get the latest blockchain news, insights, and analysis delivered straight to your inbox.</a></li>
+                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Our newsletter covers the most important developments across cryptocurrencies, DeFi, NFTs, and more.</a></li>
+                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Stay ahead of the curve and never miss a beat in this rapidly evolving industry.</a></li>
+                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Subscribe now to our free newsletter.</a></li>
                 </ul>
             </div>
  
             <!-- 3rd block -->
             <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_2_TITLE_TEXT</h6>
+                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Explore Resources</h6>
                 <ul id="footer-block-3-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Learn about blockchain technology, cryptocurrency, and decentralized applications with our library of resources.</a></li>
+                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Get started with our beginner's guides, in-depth articles, and video tutorials.</a></li>
+                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Discover new projects, stay up-to-date on the latest trends, and expand your knowledge.</a></li>
+                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Start your blockchain education today.</a></li>
                 </ul>
             </div>
  
             <!-- 4th block -->
             <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_3_TITLE_TEXT</h6>
+                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Join the Community</h6>
                 <ul id="footer-block-4-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Connect with like-minded individuals passionate about blockchain and decentralized technologies.</a></li>
+                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Engage in discussions, share ideas, and collaborate on projects in our vibrant community forums.</a></li>
+                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Attend online events, meetups, and hackathons to expand your network and grow your skills.</a></li>
+                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Be a part of the movement shaping the future of finance and technology.</a></li>
                 </ul>
             </div>
         </div>
